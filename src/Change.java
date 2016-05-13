@@ -17,9 +17,7 @@ public class Change {
 
 			File input = new File("Tracker.txt");
                        
-			//If this still doesn't work get rid of the /moditying/assets/ and just put "temp.txt"...it will simplfy the problems :p
-
-			//If you haven't played before then i will be defaulted to "1" after all this is said and done
+			
 			if(input.exists()) {
 				Scanner sc = new Scanner(input);
 				
