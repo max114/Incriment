@@ -8,7 +8,7 @@ public class Change {
 
 	public static void incrementByOne(){
 		//Ensures the correct directory structure exists...I think
-		//File dir = new File("C:\\Users\\Mastewal\\workspace\\IncrimentTextFile\\src\\TrackerTextFile");
+		//File dir = new File("C:\\Users\\Max\\workspace\\IncrimentTextFile\\src\\TrackerTextFile");
 		//if (!dir.exists()) dir.mkdir();
 
 		try {
